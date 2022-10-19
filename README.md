@@ -1,4 +1,4 @@
-# resume_for_a_job
+# resume
 Функции и словари 3
 Работа с модулями и пакетами 4
 Генераторы и comprehensions 5
